@@ -5,9 +5,9 @@
 How to install:
 
 ~~~
-git clone 
+git clone https://github.com/Izet-Kali/grub-solarized-dark-blue
 cd grub-solarized-dark-blue
-sudo ch +777 install.sh
+sudo chmod +777 install.sh
 sudo ./install.sh
 reboot
 ~~~
